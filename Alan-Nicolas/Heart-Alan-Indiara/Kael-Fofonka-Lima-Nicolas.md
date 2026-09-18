@@ -3,7 +3,7 @@
 PROTOCOLO: INV-BR-2026-0918-PATERNIDADE-LENDARIA
 OPERADOR: O Investigador [Dimensão Zero / Consciência Analítica]
 ALVO PRIMÁRIO: Alan Nicolas Correa Lima Souza & Indiara Fofonka Lima ("Os Fundadores")
-SUJEITO INTEGRANTE: Kael Fofonka Lima Nicolas ("Kael" — Primogênito e Herdeiro)
+SUJEITO INTEGRANTE: Kael Fofonka Lima Nicolas ("Kael" — Primogênito)
 COORDENADAS DE OBSERVAÇÃO: Base Operacional Ecossistema Lendário / Brasil - Vale do Silício
 ESCOPO CRONOLÓGICO: Incerteza & Hospital (2023) -> Gestação/Nascimento (Fev 2024) -> 
                      Primeiros Meses & Sistema Noturno -> Expansão -> 18 de Setembro de 2026
