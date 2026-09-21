@@ -108,7 +108,7 @@ Mecanismo Defensivo: Negação da Fraqueza -> Resposta ao Caos: Agressividade e 
                       \                                         /
                        \                                       /
                         [PONTO DE CONFLUÊNCIA SINTÉTICA]
-                        => ALVO: ENTJ | DISC: D/I | Big Five: E-Alto, C-Alto, N-Baixo | Eneagrama 8w7 (837)
+                        => ALVO: ENTJ | DISC: D/I | Big Five: O-60 C-87 E-87 A-30 N-18 | Eneagrama 8w7 (8w7 – 3w2 – 7w8)
                         /                                       \
                        /                                         \
         [ENGINE Two - Dinâmica Motivacional]             [AVALIAÇÃO DE FALSIFICABILIDADE]
@@ -157,6 +157,7 @@ Abertura à experiência: 60.0
 - Intelecto: 82.0
 - estética: 38.0
 ```
+
 
 ##### Demonstração Aritmética dos Fatores Principais:
 * **Agradabilidade:** $\frac{32.0 + 28.0}{2} = \mathbf{30.0}$ *(Baixa: foco implacável na tarefa em detrimento da concessão interpessoal; linguagem direta e confrontativa).*
